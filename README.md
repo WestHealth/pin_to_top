@@ -16,7 +16,15 @@ Edit your *pelicanconf.py*:
 
 In your article(s) meta data you can use: 
 
-    Pin: true 
+    Pin: true
+
+In your article(s) you can pin the article to the top of a category by:
+
+    pin_to_category: true
+
+In you article(s) you can pin the article to the top of an author by:
+
+    pin_to_author: true
     
 Later you can also use it in your theme, for example you can use the glyphicon-pushpin:
 
